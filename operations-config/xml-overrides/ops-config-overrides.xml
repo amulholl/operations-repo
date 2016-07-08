@@ -1,0 +1,3 @@
+<server>
+    <httpEndpoint httpPort="9085" id="defaultHttpEndpoint"/>
+</server>
